@@ -1,3 +1,3 @@
 # hello-world
-just stared with github.. 
+just started with github.. 
 XXXXX
